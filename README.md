@@ -37,4 +37,8 @@ Abrir con Visual Studio Code
 ### Base de datos (Tabla)
 <img width="314" height="401" alt="image" src="https://github.com/user-attachments/assets/c99a0c9d-e403-4840-8b8e-c60f38af2b15" />
 
+---
+### Bucket 
+<img width="1604" height="868" alt="image" src="https://github.com/user-attachments/assets/4544b33c-6ea8-4a46-82ba-8b1133e7ac18" />
+
 
